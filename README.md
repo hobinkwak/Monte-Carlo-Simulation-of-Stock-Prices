@@ -1,4 +1,4 @@
-# Monte-Carlo-Simulation-of-Stock-Prices
+# Monte Carlo Simulation of Stock Prices
 - Simple implementation of **Monte-Carlo Simulation** of Stock Prices
   - with modeling **Random Walk** of Stock Prices
 
